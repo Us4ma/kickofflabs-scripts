@@ -1,3 +1,4 @@
+console.log("📞 DOB-mask.js loaded");
 <input
   type="text"
   id="date_of_birth_or_age_"
